@@ -6,3 +6,9 @@ References:
 
 3. Counterfactual Explanations and Algorithmic Recourses for Machine Learning: A Review
 Reference: https://arxiv.org/abs/2010.10596
+
+
+
+-----
+1. Spurious Correlation : https://www.youtube.com/watch?v=7l-LDNl6jz4
+2. 
