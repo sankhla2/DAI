@@ -12,3 +12,5 @@ Reference: https://arxiv.org/abs/2010.10596
 -----
 1. Spurious Correlation : https://www.youtube.com/watch?v=7l-LDNl6jz4
 2. Fuzzy logic : https://www.youtube.com/watch?v=vof2vhfqoBo
+3. Dempster Shafer Theory : https://www.youtube.com/watch?v=UXKtrSzwIgs
+4. 
