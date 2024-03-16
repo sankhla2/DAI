@@ -7,6 +7,8 @@ References:
 3. Counterfactual Explanations and Algorithmic Recourses for Machine Learning: A Review
 Reference: https://arxiv.org/abs/2010.10596
 
+4. Variational inferencing : https://classroom.google.com/c/NjU3MTQzMjMzNTgw
+5. **bayession deep learning** : https://drive.google.com/file/d/1QhLbzM2z-td2D0BYjFSC7A9ZCzAJPGoy/view
 
 
 -----
